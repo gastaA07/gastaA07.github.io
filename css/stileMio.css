@@ -1,0 +1,240 @@
+#loginH{
+    background-color: rgba(255, 255, 255, 0.704);
+}
+
+#loginB{
+    padding: 3cm;
+    background-color:rgb(210, 190, 190);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1cm;
+    font-size:xx-large;
+    width: 500px;
+    height: 50%;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -100px;
+    margin: 0 auto;
+}
+
+#pfot{
+    
+    text-align: center;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+
+}
+#pfof{
+    
+    text-align: center;
+    color: rgb(27, 65, 235);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+
+}
+
+
+body{
+    background-color:rgb(255, 248, 110);
+}
+
+
+header{ 
+    animation-name:initial;
+    animation-duration: 5ms;
+    background-color: rgb(255, 248, 110);
+    text-align: center;
+    
+}
+
+nav{
+    color: black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(255, 248, 110);
+    word-spacing: 1%;
+    line-height: 2em;
+    font-size: larger;
+
+}
+
+article{
+    text-align: center;
+}
+
+
+
+.pulsante{
+    
+    width: 16%;
+    background-color:burlywood;
+    transition-duration: 0.5ms;
+    height: 50px;
+    text-align: center;
+    border-style:ridge; 
+    
+    p{
+        color:black;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+}
+
+.pulsante:hover{
+    box-shadow: inset;
+    background-color:burlywood;
+    box-shadow: 0 10vw 0 #e5d1d1 inset;
+    transition: 7ms;
+   }
+
+a:link{
+    text-decoration: none;
+}
+
+
+
+#bt{
+    background-color: rgb(101, 180, 211);
+    text-align: center;
+}
+
+
+#ht{
+    background-color: rgb(187, 236, 255);
+    text-align: center;
+    color: black;
+}
+
+
+#nt{
+    color:blue;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:larger;
+    word-spacing: 3%;
+    line-height: 2em;
+    background-color: rgb(187, 236, 255); 
+}
+
+#bog{
+    text-align: center;
+}
+
+#at{
+    background-color: rgb(187, 236, 255);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    word-spacing: 3%;
+    line-height: 2em;
+    color: blue;
+}
+
+#hagn{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:larger;
+    word-spacing: 3%;
+    line-height: 2em;
+    background-color: rgb(247, 242, 155) 
+}
+
+
+#bk{
+    background-color: orange;
+    text-align: center;
+}
+#hk{
+    background-color:rgb(255, 206, 121);
+    text-align: center;
+    color: black;
+    }
+#nk{
+    
+    color:rgb(255, 106, 0);    
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    word-spacing: 3%;
+    line-height: 2em;
+    background-color:rgb(255, 206, 121);
+    text-align: center;
+}
+
+#ak{
+    background-color:rgb(255, 206, 121);
+    color:rgb(255, 106, 0);    
+    font-size: larger;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    word-spacing: 3%;
+    line-height: 2em;
+    text-align: center;
+}
+
+
+#bb{
+    background-color: red;
+    text-align: center;
+}
+
+#hb{
+    background-color:rgb(255, 163, 163);
+    text-align: center;
+    color: black;
+}
+
+#nb{
+    color:rgb(255, 0, 0);    
+    font-size: larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: 3%;
+    line-height: 2em;
+    background-color: rgb(255, 163, 163);
+    text-align: center;
+}
+
+#ab{
+    background-color:rgb(255, 163, 163);
+    color:red;   
+    font-size: larger;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: 3%;
+    line-height: 2em;
+    text-align: center;
+}
+
+#by{
+    background-color: black;
+    text-align: center;
+}
+
+#hy{
+    background-color:rgb(50, 50, 249);
+    text-align: center;
+    color: black;
+}
+
+#ny{
+    color:black;    
+    font-size: larger;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    word-spacing: 3%;
+    line-height: 2em;
+    background-color:rgb(50, 50, 249);
+    text-align: center;
+}
+
+#ay{
+    background-color:rgb(50, 50, 249);
+    color: black;  
+    font-size: larger;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    word-spacing: 3%;
+    line-height: 2em;
+    text-align: center;
+}
+
+
+
+
